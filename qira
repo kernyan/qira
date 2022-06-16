@@ -14,5 +14,5 @@ else
 fi
 
 unset PYTHONPATH
-source $DIR/venv/bin/activate
+source $DIR/env/bin/activate
 exec /usr/bin/env python $DIR/middleware/qira.py $*

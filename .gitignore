@@ -29,7 +29,7 @@ bap/
 static/python32
 testvm/.vagrant
 radare
-venv
+env
 capstone
 tests_auto/binary-autogen
 
